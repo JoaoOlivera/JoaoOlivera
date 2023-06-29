@@ -1,60 +1,35 @@
-<!-- Presentation -->
-<img align="right" height="580cm" src="https://gist.githubusercontent.com/LucelhoCristiano/df9d81949eea719ae943b787cfe1b4b8/raw/e0e96984213cb159432a496597275cae1af9423b/githubcard.svg"/>
-<h1 align= left>Hi guys <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, I'm Lucelho</h1>
+## Olá Galera!! Sou o João Vitor....
+<div align="center">
+  <a href="https://github.com/joaovoferreira/joaovoferreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovoferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovoferreira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  
 
-- 👨‍💻 currently studying computer science at UNA university.
 
-- 🔥 Studying Full Stack Java (EBAC).
-
-- 🌎 I participate as an instructor in the FavelaWare Project, an initiative aimed at training young programmers, 15 to 22 years.<a href="https://favelaware.animahub.com.br/sobre" target="blank"> Click Here</a>
-
-- 🚀 Curious facts about me: I love listening to music.
-
-- 🧮 I participate in the GELP community (Group of Studies in Logic Programming). <a href="https://www.instagram.com/gelpunacm" target="_blank">Click Here </a>
-
-- 📊 I am very communicative, I have ease in learn new things, I love solving problems, I work very well in groups.
-
-<br><br>
-<!-- Skills -->
-<h2 align="left"> Languages and IDE : <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="55px"> </h2>
-
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title = "Java"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
 <code><img width="40px" src="https://i.imgur.com/LMX3yhx.png" title = "Visual Studio Code"/></code>
-<code><img width="35px" src="https://i.imgur.com/apbViDM.png" title = "Apache NetBeans"/></code>
-
-<br><br>
-<!-- Analitycs -->
-<h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="50px"> </h2>
-<div align="left">
-   <a href="https://github.com/lucelhocristiano">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucelhocristiano&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucelhocristiano&layout=compact&langs_count=7&theme=github_dark"/>
+  
+  
 </div>
-
-
-<br><br>
-<!-- Contact -->
-<h2>Contact: <img src="https://em-content.zobj.net/source/microsoft-teams/337/telephone-receiver_1f4de.png" width="35px"></h2>
-<p style="background:black">  
-<a href="https://www.linkedin.com/in/lucelho-cristiano-b17196239" target="_blank">
-  <img src="https://img.shields.io/badge/-LucelhoCristiano-0077B5?style=flat&logo=linkedin" alt="Linkedin"/>
-</a>  
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvwDlxBSwvBFBBrBfWTRLxMfDbvbBWvZXpmhcfjmmZrZKlKTSLrPkSJlVHpvHkDzCkPFL" target="_blank">
- <img src="https://img.shields.io/badge/-lucelhoCristiano-D14836?style=flat&logo=gmail&logoColor=white" 
- alt="Gmail"/>
-</a>  
-<a href="https://contate.me/lucelho" target="_blank">
-  <img src="https://img.shields.io/badge/-LucelhoCristiano-25D366??style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>  
-</a>  
-<a href="https://www.instagram.com/lucelhosilva" target="_blank">
- <img src="https://img.shields.io/badge/-LucelhoCristiano-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
-</p>
-
-<!-- citation -->
-#### _By Chorão (CharleiCharlie Brown Jr.): "Mas para quem tem o pensamento forte o impossivel é so questão de opinião"_ <img height="30px" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/thinking-face_1f914.gif">
+  
+  ##
+ 
+<div> 
+  
+  <a href="https://www.instagram.com/jaopubgm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jvoferreira0w2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-vitor-oliveira-44b2a0239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+  
+ 
+  ![Snake animation](https://github.com/joaovoferreira/joaovoferreira/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
