@@ -1,4 +1,4 @@
- <h1 align= left>Hi guys <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, I'm João!</h1>
+## Olá Galera!! Sou o João Vitor....
 <div align="center">
   <a href="https://github.com/joaovoferreira/joaovoferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovoferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -33,3 +33,4 @@
   ![Snake animation](https://github.com/joaovoferreira/joaovoferreira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
