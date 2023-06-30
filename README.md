@@ -30,6 +30,6 @@
   
   
  
-  ![Snake animation](https://github.com/joaovoferreira/joaovoferreira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JoaoOlivera/JoaoOlivera/blob/output/github-contribution-grid-snake.svg)
  
 </div>
